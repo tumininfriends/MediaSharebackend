@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+passlib
+python-jose
+redis
+azure-storage-blob
